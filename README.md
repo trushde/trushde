@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 My Projects </h2>
 
-- <b>Full Stack Web App (PostgreSQL, React, and NodeJS)(</b>
+- <b>Full Stack Web App (PostgreSQL, React, and NodeJS)</b>
   - [Task Tracker](https://github.com/trushde/task-tracker-app)
 - <b>C# and Unity</b>
   - [Flight Simulator](https://github.com/trushde/flight-simulator-game) 
