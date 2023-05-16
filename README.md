@@ -8,6 +8,8 @@
   - [Flight Simulator](https://github.com/trushde/flight-simulator-game) 
 - <b>Java</b>
   - [Game of Life](https://github.com/trushde/game-of-life)
+- <b>HTML, CSS, and JavaScript</b>
+  - [Linktree Clone](https://github.com/trushde/linktree-clone)
 
 
 
